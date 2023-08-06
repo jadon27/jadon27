@@ -27,12 +27,6 @@
                 C#, SQL Server, OOPS, .NET, MVC Core, HTML, CSS, JavaScript, Ajax, JQuery
             </div>
         </div>
-        <div class="connect">
-            <h3>Connect with me:</h3>
-            <a href="https://linkedin.com/in/prachi-jadon-72986620b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"></a>
-            <a href="https://twitter.com/haritprem" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter"></a>
-            <!-- Add more social media links and icons here -->
-        </div>
     </div>
 </body>
 </html>
